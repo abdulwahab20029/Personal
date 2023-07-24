@@ -1,0 +1,996 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1",
+          "name": "Abbottabad"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.2407, 34.1508]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2",
+          "name": "Arifwala"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.0669, 30.2888]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3",
+          "name": "Attock"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.3620, 33.7641]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4",
+          "name": "Badin"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [68.7335, 24.6482]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5",
+          "name": "Bahawalnagar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.2472, 29.9980]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6",
+          "name": "Bahawalpur"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [71.6743, 29.3929]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7",
+          "name": "Burewala"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.6897, 30.1660]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8",
+          "name": "Chakwal"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.8576, 32.9353]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "9",
+          "name": "Charsadda"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [71.7428, 34.1436]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "10",
+          "name": "Chenab Nagar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.7566, 31.6056]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "11",
+          "name": "Chichawatni"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.6813, 30.5331]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "12",
+          "name": "Dadu"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [67.7873, 26.7323]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "13",
+          "name": "Daharki"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [69.1128, 28.4206]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "14",
+          "name": "Daska"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.3534, 32.3248]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "15",
+          "name": "Dera Ghazi Khan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [70.6470, 30.0490]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "16",
+          "name": "Dera Ismail Khan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [70.9017, 31.8290]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "17",
+          "name": "Dokri"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [68.3903, 27.2618]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "18",
+          "name": "Faisalabad"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.0679, 31.4504]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "19",
+          "name": "Gadani"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [66.7396, 25.1388]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "20",
+          "name": "Gilgit"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.3500, 35.9208]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "21",
+          "name": "Gujranwala"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.1883, 32.1453]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "22",
+          "name": "Gujrat"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.0800, 32.5722]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "23",
+          "name": "Gwadar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [62.3434, 25.1216]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "24",
+          "name": "Hafizabad"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.6841, 32.0670]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "25",
+          "name": "Haripur"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.9597, 33.9960]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "26",
+          "name": "Hub"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [66.7920, 25.0361]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "27",
+          "name": "Hyderabad"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [68.3750, 25.3786]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "28",
+          "name": "Islamabad"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.0479, 33.6844]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "29",
+          "name": "Jamshoro"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [68.2811, 25.4360]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "30",
+          "name": "Jhal Magsi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [68.4553, 28.5453]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "31",
+          "name": "Jhang"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.3048, 31.2794]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "32",
+          "name": "Jhelum"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.7407, 32.9345]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "33",
+          "name": "Kabul"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [69.1940, 34.5553]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "34",
+          "name": "Kamra"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.3997, 33.8940]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "35",
+          "name": "Kandiaro"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [68.7890, 27.3009]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "36",
+          "name": "Karachi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [67.0011, 24.8607]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "37",
+          "name": "Kasur"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.4462, 31.1152]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "38",
+          "name": "Kharian"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.8650, 32.8249]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "39",
+          "name": "Khipro"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [69.7791, 25.8262]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "40",
+          "name": "Khushab"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.3477, 32.2979]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "41",
+          "name": "Lahore"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.3587, 31.5204]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "42",
+          "name": "Lakki Marwat"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [70.9043, 32.6129]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "43",
+          "name": "Larkana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [68.2064, 27.5552]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "44",
+          "name": "Lodhran"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [71.6312, 29.5403]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "45",
+          "name": "Lower Dir"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.2548, 35.2117]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "46",
+          "name": "Mailsi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.3843, 29.8030]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "47",
+          "name": "Mandi Bahauddin"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.4992, 32.5865]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "48",
+          "name": "Mardan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.0456, 34.1987]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "49",
+          "name": "Mian Channu"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.2482, 30.4421]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "50",
+          "name": "Mianwali"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [71.7458, 32.5742]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "51",
+          "name": "Mirpur"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.7487, 33.0058]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "52",
+          "name": "Moro"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [68.0005, 26.4481]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "53",
+          "name": "Multan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [71.4782, 30.1575]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "54",
+          "name": "Nankana Sahib"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.7100, 31.4475]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "55",
+          "name": "Narowal"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.8790, 32.1020]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "56",
+          "name": "Naudero"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [68.5558, 27.7057]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "57",
+          "name": "Nowshera"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [71.9995, 34.0150]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "58",
+          "name": "Okara"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.4531, 30.8107]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "59",
+          "name": "Pakpattan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.3862, 30.3460]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "60",
+          "name": "Pattoki"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.7842, 31.0154]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "61",
+          "name": "Peshawar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [71.5249, 34.0151]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "62",
+          "name": "Pindi Bhattian"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.2468, 31.8004]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "63",
+          "name": "Quetta"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [67.0011, 30.1798]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "64",
+          "name": "Rahim Yar Khan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [70.3012, 28.4220]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "65",
+          "name": "Rawalpindi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.0479, 33.6844]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "66",
+          "name": "Rohri"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [68.2641, 27.6725]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "67",
+          "name": "Sadiqabad"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [70.1289, 28.3061]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "68",
+          "name": "Sahiwal"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.6742, 30.6717]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "69",
+          "name": "Sakrand"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [68.5561, 26.1408]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "70",
+          "name": "Sanghar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [68.7755, 26.0464]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "71",
+          "name": "Sargodha"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.6711, 32.0836]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "72",
+          "name": "Shahkot"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.9256, 31.5702]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "73",
+          "name": "Sheikhupura"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.9783, 31.7131]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "74",
+          "name": "Shikarpur"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [68.6385, 27.9575]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "75",
+          "name": "Sialkot"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.5968, 32.4945]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "76",
+          "name": "Skardu"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.5732, 35.3191]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "77",
+          "name": "South Waziristan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [69.7823, 32.2789]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "78",
+          "name": "Sukkur"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [68.8489, 27.7042]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "79",
+          "name": "Swabi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.2258, 34.1227]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "80",
+          "name": "Swat"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.4728, 35.3191]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "81",
+          "name": "Taftan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [63.5443, 28.6153]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "82",
+          "name": "Talagang"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.4027, 32.9316]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "83",
+          "name": "Tando Alah Yar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [68.6797, 25.4622]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "84",
+          "name": "Taxila"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.8467, 33.7294]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "85",
+          "name": "Tharparkar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [69.4500, 24.7267]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "86",
+          "name": "Thatta"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [67.9222, 24.7479]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "87",
+          "name": "Toba Tek Singh"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.7007, 30.9756]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "88",
+          "name": "Usta Muhammad"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [69.0014, 30.3664]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "89",
+          "name": "Vehari"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.3412, 30.0416]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "90",
+          "name": "Wah Cantt"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.4212, 33.7759]
+        }
+      }
+    ]
+  }
+  
