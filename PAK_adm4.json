@@ -1,0 +1,906 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "ABBOTTABAD"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "ARIFWALA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.1956,30.2835],[73.1956,30.2836],[73.1957,30.2836],[73.1957,30.2835],[73.1956,30.2835]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "ATTOCK"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[72.3522,33.7737],[72.3522,33.7738],[72.3523,33.7738],[72.3523,33.7737],[72.3522,33.7737]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "BADIN"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[68.7337,24.6548],[68.7337,24.6549],[68.7338,24.6549],[68.7338,24.6548],[68.7337,24.6548]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "BAHAWALNAGAR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "BAHAWALPUR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "BUREWALA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "CHAKWAL"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "CHARSADDA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "CHENAB NAGAR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "CHICHAWATNI"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "DADU"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "DAHARKI"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "DASKA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "DERA GHAZI KHAN"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "DERA ISMAIL KHAN"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "DOKRI"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "FAISALABAD"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "GADANI"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "GILGIT"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "GUJRANWALA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "GUJRAT"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "GWADAR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "HAFIZABAD"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "HARIPUR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "HUB"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "HYDERABAD"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "ISLAMABAD"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "JAMSHORO"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "JHAL MAGSI"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "JHANG"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "JHELUM"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "KABUL"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "KAMRA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "KANDIARO"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "KARACHI"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "KASUR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "KHARIAN"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "KHIPRO"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "KHUSHAB"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "LAHORE"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "LAKKI MARWAT"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "LARKANA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "LODHRAN"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "LOWER DIR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "MAILSI"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "MANDI BAHAUDDIN"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "MARDAN"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "MIAN CHANNU"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "MIANWALI"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "MIRPUR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "MORO"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "MULTAN"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "NANKANA SAHIB"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "NAROWAL"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "NAUDERO"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "NOWSHERA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "OKARA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "PAKPATTAN"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "PANO AKIL"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "PARACHINAR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "PATTOKI"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "PESHAWAR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "QUETTA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "RAHIM YAR KHAN"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "RAJANPUR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "RAWALPINDI"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SADIQABAD"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SAHIWAL"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SANGHAR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SARGODHA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SHABQADAR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SHAHDAD KOT"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SHAIKHUPURA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SHEIKHUPURA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SHIKARPUR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SIALKOT"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SIBI"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SUKKUR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SWABI"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SWAT"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "TANDO ALLAHYAR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "TANDO MUHAMMAD KHAN"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "TAXILA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "THATTA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "TOBA TEK SINGH"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "TORDHER"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "TURBAT"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "UCH SHARIF"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "VEHARI"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.2407,35.3191],[73.2407,35.3192],[73.2408,35.3192],[73.2408,35.3191],[73.2407,35.3191]]]
+        }
+      }
+    ]
+  }
+  
